@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# sst
+.sst
+.build
+
+# Go builds
+packages/functions/src/helloWorld
+
+# opennext
+.open-next
+
+# misc
+.DS_Store
+
+# env files
+.env
+.env*.local
+
+# code editors
+.idea
+.vscode
